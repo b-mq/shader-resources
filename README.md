@@ -38,4 +38,8 @@ http://www.cdglabs.org/Shadershop/
 
 https://easings.net/
 
+https://www.iquilezles.org/www/articles/functions/functions.htm
+
+https://patriciogonzalezvivo.github.io/glslEditor/
+
 
